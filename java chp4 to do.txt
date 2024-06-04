@@ -1,0 +1,18 @@
+Error definition and types of error
+Exception definition and exception handling
+Types of exception with their explanation
+Pg5 and 6: try , catch , throw, throws, finally ( syntax and example of all)
+Pg 8: throws and finally statement
+Pg 10: creating own exception 
+Pg 12: user defined exception 
+Pg 13: checked unchecked distinguish 
+Pg 13: multithreading...thread based multitasking...advantages ..application 
+Pg 14: creating a thread imp question
+Pg 16: life cycle of thread (6m)
+Pg 17: thread methods ( do the main ones)
+Pg 19: thread priority...with example given ( may come for 6m)
+....
+Synchronisation and interthread communication (idk abt this)
+....
+Pg 23: deadlock ( diagram and ex)
+Pg 25: error and exception distinguish
